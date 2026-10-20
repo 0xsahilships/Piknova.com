@@ -378,7 +378,7 @@ These are the directions we're exploring. They're ideas, not promises with dates
 | 🎬 **Creator kits** | Thumbnails, banners, profile pictures and cover images for every channel |
 
 > [!TIP]
-> **Want a tool that isn't here yet?** Email [support@piknova.com](mailto:support@piknova.com) or reach out on [X](https://x.com/0xSahilTrix). Real requests from real users shape what ships next.
+> **Want a tool that isn't here yet?** Email [support@piknova.com](mailto:support@piknova.com) or reach out on [X](https://x.com/sahilships). Real requests from real users shape what ships next.
 
 <br />
 
@@ -627,12 +627,12 @@ Practical, no-fluff reads from the [Piknova blog](https://www.piknova.com/blog) 
 <p>
   <a href="https://www.piknova.com"><img src="https://img.shields.io/badge/piknova.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit piknova.com" /></a>
   <a href="mailto:support@piknova.com"><img src="https://img.shields.io/badge/support@piknova.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email support@piknova.com" /></a>
-  <a href="https://x.com/0xSahilTrix"><img src="https://img.shields.io/badge/@0xSahilTrix-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
+  <a href="https://x.com/sahilships"><img src="https://img.shields.io/badge/@sahilships-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
   <a href="https://www.youtube.com/channel/UCoicQ-dh0cHK4cnLv0HMSMQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Piknova on YouTube" /></a>
 </p>
 
 - 💬 **Questions, bugs or tool requests:** [support@piknova.com](mailto:support@piknova.com) or the [contact page](https://www.piknova.com/contact)
-- 📣 **Updates and new tools:** [@0xSahilTrix on X](https://x.com/0xSahilTrix)
+- 📣 **Updates and new tools:** [@sahilships on X](https://x.com/sahilships)
 - 🏷️ **Sponsorship:** [piknova.com/pricing](https://www.piknova.com/pricing)
 - ⭐ **Like what you see?** Star this repo and share [piknova.com](https://www.piknova.com) with someone who's still fighting with heavy image software.
 
@@ -676,7 +676,7 @@ For licensing, partnership or permission requests, contact [support@piknova.com]
 
 **[Piknova](https://www.piknova.com)** · Free online image tools · Fully browser-based
 
-<sub>Made with ❤️ in India 🇮🇳 by <a href="https://x.com/0xSahilTrix">Sahil</a></sub>
+<sub>Made with ❤️ in India 🇮🇳 by <a href="https://x.com/sahilships">Sahil</a></sub>
 
 <br />
 
